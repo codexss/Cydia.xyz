@@ -16,10 +16,7 @@
 								<key>apn</key>
 								<string>internet</string>
 								<key>password</key>
-								<data>
-								
-								</data>
-								
+								<data></data>
 								<key>username</key>
 								<string></string>
 							</dict>
@@ -52,7 +49,7 @@
 	<key>PayloadIdentifier</key>
 	<string>custom.proxy</string>
 	<key>PayloadOrganization</key>
-	<string>iphone.flexserve.net</string>
+	<string>Telkomsel</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
